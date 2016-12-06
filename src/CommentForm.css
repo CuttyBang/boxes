@@ -1,0 +1,23 @@
+.comment-form {
+  max-width: 80%;
+  border: 1px solid #222;
+  border-radius: 5px;
+  background-color: #d8e1e8;
+  margin: 5px auto;
+  height: 75px;
+  padding: 10px;
+}
+
+.text-input {
+  width: 90%;
+  height: 3em;
+}
+
+.submit-button {
+  padding: 5px;
+  border: none;
+  border-radius: 5px;
+  background-color: #6ea16b;
+  float: right;
+  margin-top: 10px;
+}

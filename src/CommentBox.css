@@ -1,0 +1,27 @@
+.comment-box {
+  max-width: 50%;
+  margin: 0 auto;
+  text-align: center;
+  border: 1px solid #222;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+.top-line {
+  background-color: #ccc;
+  height: 50px;
+  padding: 20px;
+  border-bottom: 5px solid #222;
+}
+
+.top-line h2 {
+  font-size: 3em;
+  color: #4a947e;
+  margin: 0 auto;
+}
+
+.input-section {
+  height: 500px;
+  padding: 20px;
+  background-color: #a7c0d1;
+}
